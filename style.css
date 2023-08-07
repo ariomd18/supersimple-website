@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0  9px;
+    background-color: aquamarine;
+}
+.navbar{
+    display: flex;
+align-items: center;
+
+
+}
+.navbar ul{
+    display: flex;
+    list-style-type: none;
+    color: aliceblue;
+}
+
+.navbar a{
+    padding: 8 px;
+    text-decoration: none;
+}
+.logo img{
+    width: 40px;
+    height: 40px;
+    border-radius:50px;
+
+}
